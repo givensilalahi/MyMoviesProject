@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMoviesProject</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_pass">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="txt_success">Success!</string>
+</resources>
